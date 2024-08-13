@@ -1,6 +1,5 @@
 # United States Petroleum Import & Export Report
 ------
-Report: [Crude Oil Report.pdf](https://github.com/user-attachments/files/15934908/Crude.Oil.Report.pdf)
 
 ### Summary of Insights
 - A majority of the oil produced in the U.S comes from the Gulf Coast Field Production (PADD 3) includes several states including Alabama, Arkansas , Louisiana , Mississippi, New Mexico and Texas. 
@@ -21,6 +20,6 @@ Report: [Crude Oil Report.pdf](https://github.com/user-attachments/files/1593490
 - U.S Energy Information Admiration
 
 #### Recommendation
-- "We will maintain our ongoing monitoring of Gulf Field Production."
+- We will maintain our ongoing monitoring of Gulf Field Production.
 
 
