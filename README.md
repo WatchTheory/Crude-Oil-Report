@@ -7,8 +7,8 @@
 - Texas was the primary source of domestic crude Oil production and Canada was the leading source of U.S crude Oil imports, while China and India were the top destinations for U.S Crude Oil Exports 
 
 #### Trends
-- From 1957 the amount of oil being exported in the U.S decrease all the way to 187 barrels for the year. 
-- After 1972 the amount of barrels increased rapid 697 barrels in 1973 to 104,935 barrels in 1980. This trend was due to the 1972 oil embargo that happen to the Western countries.
+- From 1957 the amount of oil being exported in the U.S decrease to 187 barrels for the year. 
+- After 1972 the amount of barrels increased rapid from 697 barrels in 1973 to 104,935 barrels in 1980. This trend was due to the 1972 oil embargo that happen to the Western countries.
 
 #### Period 
 - Fiscal Year 2022
